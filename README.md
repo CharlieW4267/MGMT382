@@ -2,7 +2,7 @@
 <html> 
   <head>
   </head>
-  <body>
+  <body bgcolor = "green">
    <h1> Coltivare </h1>
     Our Story
     <br>
