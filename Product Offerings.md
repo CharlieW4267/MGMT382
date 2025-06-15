@@ -8,7 +8,9 @@
     1. <i>The AgDrone</i>
     <br>
     <br>
+    <p style="font family: sans-serif;"><p style="color: blue;">
     We start of the product line by offering our drone. The AgDrone is no different in controls or feel from standard consumer drones, other than the fact it is beefed up with a heavy duty aluminum chassis, attachment points for our accessories, high thrust propellers to hold up the extra weight and stay stable in windy weather.
+      </p></p>
     <br>
     <img src="AgDrone.png" alt= "image" height="300" width"300">
     <br>
