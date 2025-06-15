@@ -4,7 +4,6 @@
   </head>
   <body bgcolor = "green">
    <h1> <b> Coltivare </h1></b>
-     <h2>HTML Image</h2>
 <img src="tractor.webp"width="500" height="333">
 <br><br>
    <h2><b> Our Story</b></h2>
