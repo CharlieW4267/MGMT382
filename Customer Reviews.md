@@ -6,6 +6,7 @@
     <h1><b><u>Hear From Our Customers!</u></b></h1>
   </n>
     <h5><b>Farmers across the country are using our ground-scanning tool to detect hidden rocks and check soil quality before planting. Their feedback shows how our technology is helping improve efficiency, reduce equipment damage, and support better harvests. Read their reviews to see the impact for yourself.</b></h5>
+    <img src="farm.jpg">
 
   </head>
   <body>
@@ -30,8 +31,8 @@
     <h3><b> Want to Leave Us a <a href= "https://docs.google.com/forms/d/e/1FAIpQLSd9vcvoZHTRcNeI5cn3JSEAfUuJ6xDLpRadb058LN2RvubzHg/viewform?usp=preview" target = "_blank">Review?</a></b></h3>
   </n>
   </n>
-    <h5><b> Contact Information</b></h5> 
-      <h5>Email:Yvalluri@purdue.edu</h5>
-     <h5> Name: Yaajushi V.</h5>
+  </n>
+  </n>
+    <h6><b> Contact Information:</b> Yaajushi V. (Yvalluri@purdue.edu)</h6>
   </body>
 </html>
