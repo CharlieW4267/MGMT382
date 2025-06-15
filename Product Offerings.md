@@ -11,6 +11,6 @@
     <br><br>
     <i>Geo Scanner</i>
     <br><br>
-    After hearing many complaints from farmers having to constantly get in and out of the tractor while doing the first plow of the season to discard of those pesky rocks that dull the blades, we decided to give farmers a way to find the fieldstones behore hand.
+    After hearing many complaints from farmers having to constantly get in and out of the tractor while doing the first plow of the season to discard of those pesky rocks that dull the blades, we decided to give farmers a way to find the fieldstones behore hand. Simply attatch or scanner to any commonly avalible drone via our mount and fly ~20 ft above the filed's surface. The drone will send electrical signals downward and look for changes in freqency coming back, thus indicating a different material than dirt. The scanner will tranmit a notification to the drone's viewing screen and highlight the fieldstone, or any other obstruction in red. <i>You may ask yourself what to do with all your fieldstones. Attatched is a site with plenty of great ideas!</i> <a href="url">https://www.saundersls.com/what-can-i-do-with-fieldstones/#:~:text=Fieldstones%20occur%20because%20of%20glacial,from%20this%20last%20glacial%20period.</a>
   </body>
 </html>
