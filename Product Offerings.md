@@ -3,7 +3,7 @@
   </head>
   <body bgcolor = "green">
    <h1> Coltivare </h1>
-    <b>Our Product Offerings</b>
+    <p style="font-size:20px;"><b>Our Product Offerings</b></p>
     <br>
     1. <i>The AgDrone</i>
     <br>
