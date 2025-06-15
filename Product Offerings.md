@@ -27,5 +27,5 @@ Contact me via <a href="mailto:xyz@gmail.com">email</a>
 <br>
 
   </body>
-  <footer>Last Modified: June 15<p>Last Modified:<span id="last-modified-date:June-15"></span></p></footer>
+  <footer><p>Last Modified:<span id="last-modified-date:June-15"></span></p></footer>
 </html>
